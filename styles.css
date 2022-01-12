@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  font-family: Lobster,cursive;
+  background-color: #BAFFB4;
+}
+footer{
+  color: #9B0000;
+  font-family: sans-serif;
+  background-color: #FFFDA2;
+  text-align: center;
+  padding: 1.5rem;
+  display: block;
+}
+h1{
+  color: #9B0000;
+  font-size: 5rem;
+}
+p{
+  color: #9B0000;
+  font-size: 2.5rem;
+}
+.btn{
+  margin: 1.5rem;
+}
+.container{
+  padding: 1rem;
+}
+.dice{
+  display: inline-block;
+  padding-bottom: 2.5rem;
+}
